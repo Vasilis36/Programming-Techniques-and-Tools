@@ -1,5 +1,5 @@
 
-# EPL232 - Assignment 1
+# Assignment 1
 
 This is the game of Three Musketeers. Three Musketeers is a 5x5 board game, where the 3 musketeers battle the 22 men of Cardinal Richelieu (also mentioned as 'enemy' during the game).
 
